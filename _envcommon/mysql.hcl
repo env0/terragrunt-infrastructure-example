@@ -44,4 +44,3 @@ inputs = {
 
   # TODO: To avoid storing your DB password in the code, set it as the environment variable TF_VAR_master_password
 }
-
